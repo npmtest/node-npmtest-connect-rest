@@ -1,0 +1,20 @@
+<svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="270" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ connect-rest@2.11.8 </tspan>
+<tspan x="10" y="90">  ├── assign.js@2.6.0 </tspan>
+<tspan x="10" y="106">  ├── isa.js@1.8.5 </tspan>
+<tspan x="10" y="122">  ├── proback.js@1.7.1 </tspan>
+<tspan x="10" y="138">  ├── semver@5.3.0 </tspan>
+<tspan x="10" y="154">  └─┬ winston@2.3.1 </tspan>
+<tspan x="10" y="170">    ├── async@1.0.0 </tspan>
+<tspan x="10" y="186">    ├── colors@1.0.3 </tspan>
+<tspan x="10" y="202">    ├── cycle@1.0.3 </tspan>
+<tspan x="10" y="218">    ├── eyes@0.1.8 </tspan>
+<tspan x="10" y="234">    ├── isstream@0.1.2 </tspan>
+<tspan x="10" y="250">    └── stack-trace@0.0.9</tspan>
+</text>
+</svg>
